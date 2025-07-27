@@ -74,7 +74,7 @@ Toujours en quête d’innovation, je conçois des solutions robustes, évolutiv
 ## 📬 Me contacter
 
 - 📧 Email : **[TonEmailIci]**
-- 💼 LinkedIn : [linkedin.com/in/tonprofil](https://linkedin.com/in/tonprofil)
+- 💼 LinkedIn : [linkedin.com/in/Boubacar-ElhassenSy](https://www.linkedin.com/in/boubacar-elhassansy)
 - 📱 Telegram : **@TonPseudo**
 
 ---
@@ -92,5 +92,5 @@ N’hésitez pas à explorer mes dépôts, à contribuer ou à me contacter !
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BoubacarSy&style=flat-square&color=blue" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/BoubacarSy?label=Suivez-moi&style=social" />
+  <img src="https://img.shields.io/github/followers/CarbabouSy?label=Suivez-moi&style=social" />
 </p>
