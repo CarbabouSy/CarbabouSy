@@ -1,51 +1,96 @@
-# Bonjour ! 👋 je suis Boubacar Sy
-Je suis un étudiant diplômé en informatique, spécialisé dans le DA2i et le développement web et mobile. J'ai acquis des compétences approfondies dans différents domaines de l'informatique :
-- DA2I : Development Administration Intranet et Internet
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2300F78C&lines=Bienvenue+sur+mon+profil+GitHub+!;Développeur+Web+%26+Mobile;Passionné+par+l'open-source+et+les+technologies+modernes" />
+</p>
 
-## Langages de programmation
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)JavaScript
-- ![PHP](https://img.icons8.com/officel/48/000000/php-logo.png) PHP
-- ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) C++
+# 👋 Bonjour, je suis **Boubacar Sy**
 
-- ![Python](https://img.icons8.com/color/48/000000/python.png) Python
+🎓 Développeur diplômé en **informatique**, spécialisé en **DA2I** (Développement Administration Intranet & Internet).  
+Je suis passionné par le **développement web & mobile**, les architectures backend modernes, l'open-source et l'impact des technologies en Afrique.  
+Toujours en quête d’innovation, je conçois des solutions robustes, évolutives et adaptées aux besoins concrets.
 
-## Frameworks et bibliothèques
-- ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap : Un framework CSS populaire pour la création de sites web réactifs et esthétiques.
-- ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwindcss.png) Tailwind CSS
- : Un outil de conception CSS utilisant une approche utilitaire pour un développement rapide et flexible.
-- ![Laravel](https://img.icons8.com/fluency/48/000000/laravel.png) Laravel : Un framework PHP élégant et puissant pour le développement d'applications web robustes.
-- ![Next.js](https://img.icons8.com/color/48/000000/nextjs.png) Next.js
- : Un framework JavaScript basé sur React pour la création d'applications web modernes et performantes.
-- ![React](https://img.icons8.com/color/48/000000/react-native.png) React
- : Une bibliothèque JavaScript pour la construction d'interfaces utilisateur i
-## Bases de données
-![PostgreSQL](https://icons8.com/icon/LwQEs9KnDgIo/postgresql) PostgreSQL
- : Un système de gestion de base de données relationnelle robuste et open source.
-- - ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) MySQL
- : Un système de gestion de base de données populaire et fiable.
+---
 
-## Environnement
-- ![Linux](https://img.icons8.com/color/48/000000/linux.png) Linux
- : Un système d'exploitation libre et open source.
-- ![Windows](https://img.icons8.com/color/48/000000/windows-10.png) Windows
+## 🚀 Compétences techniques
 
- : Un système d'exploitation largement utilisé dans les environnements de bureau et d'entreprise.
+### 🧠 Langages
+![JavaScript](https://img.icons8.com/color/24/000000/javascript.png) JavaScript &nbsp;
+![PHP](https://img.icons8.com/officel/24/000000/php-logo.png) PHP &nbsp;
+![Python](https://img.icons8.com/color/24/000000/python.png) Python &nbsp;
+![C++](https://img.icons8.com/color/24/000000/c-plus-plus-logo.png) C++
 
-## Outils et technologies supplémentaires
-- Jira et Confluence : Des outils de gestion de projets et de documentation largement utilisés dans l'industrie.
-- Serveur Asterisk : Une plateforme de téléphonie open source permettant de créer des systèmes de communication avancés.
-- Visual Studio Code (VSCode) : Un éditeur de code léger et puissant, très apprécié des développeurs.
+### ⚙️ Frameworks & Librairies
+![React](https://img.icons8.com/color/24/000000/react-native.png) React  
+![Next.js](https://img.icons8.com/color/24/000000/nextjs.png) Next.js  
+![Angular](https://img.icons8.com/color/24/000000/angularjs.png) Angular  
+![Flutter](https://img.icons8.com/color/24/000000/flutter.png) Flutter  
+![Laravel](https://img.icons8.com/fluency/24/000000/laravel.png) Laravel  
+![Bootstrap](https://img.icons8.com/color/24/000000/bootstrap.png) Bootstrap  
+![Tailwind CSS](https://img.icons8.com/color/24/000000/tailwindcss.png) Tailwind CSS  
 
-## Intérêts et hobbies
-- Je suis un grand amateur de mangas et de la culture japonaise !
-- J'ai une passion pour la conception et le développement web et mobile, en recherchant constamment des solutions créatives et innovantes.
-- J'apprécie particulièrement travailler avec _PHP_ pour automatiser des tâches et créer des projets personnels intéressants.
+### 🔧 Backend & API
+![Node.js](https://img.icons8.com/color/24/000000/nodejs.png) Node.js  
+![Express.js](https://img.icons8.com/ios/24/000000/express-js.png) Express.js  
+🔐 JWT, RESTful APIs, Auth, Sécurité Web
 
+### 🛢️ Bases de données
+![MongoDB](https://img.icons8.com/color/24/000000/mongodb.png) MongoDB  
+![MySQL](https://img.icons8.com/color/24/000000/mysql-logo.png) MySQL  
+![PostgreSQL](https://img.icons8.com/color/24/000000/postgresql.png) PostgreSQL  
 
+### 💻 Environnements & Outils
+![Linux](https://img.icons8.com/color/24/000000/linux.png) Linux  
+![Windows](https://img.icons8.com/color/24/000000/windows-10.png) Windows  
+🛠️ VSCode, Git, GitHub, Postman, Jira, Confluence, Asterisk, Figma
 
-## Contacte
+---
 
-- N'hésitez pas à me contacter par e-mail ou via LinkedIn (insérer vos informations de contact) pour discuter de projets intéressants ou d'opportunités de collaboration.
+## 📊 Statistiques GitHub
 
- ![Windows](https://img.icons8.com/color/48/000000/github.png) Windows
-Merci d'avoir visité mon profil GitHub !
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BoubacarSy&show_icons=true&theme=radical&hide_title=true" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoubacarSy&layout=compact&theme=radical" height="150">
+</p>
+
+---
+
+## 🌱 Objectifs & motivation
+
+> Je suis actuellement à la recherche de **collaborations**, de **projets open-source** ou de **missions freelance/stage** autour :
+> - Du **développement web & mobile fullstack**
+> - Des **API sécurisées & architectures modernes**
+> - De l'impact social des **technologies numériques** en Afrique
+
+---
+
+## 🎯 Ce que j’aime
+
+- 📱 Créer des applications utiles et accessibles à tous
+- 📚 Apprendre constamment de nouvelles technologies
+- 🌍 Imaginer des solutions numériques pour les réalités africaines
+- 🇯🇵 Explorer la culture japonaise, les mangas et les animés
+
+---
+
+## 📬 Me contacter
+
+- 📧 Email : **[TonEmailIci]**
+- 💼 LinkedIn : [linkedin.com/in/tonprofil](https://linkedin.com/in/tonprofil)
+- 📱 Telegram : **@TonPseudo**
+
+---
+
+## ✨ Citation favorite
+
+> _"Stay hungry, stay foolish." — Steve Jobs_
+
+---
+
+## 🙌 Merci !
+
+Merci d’avoir visité mon profil GitHub 🙏  
+N’hésitez pas à explorer mes dépôts, à contribuer ou à me contacter !
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BoubacarSy&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/BoubacarSy?label=Suivez-moi&style=social" />
+</p>
